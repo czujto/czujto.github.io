@@ -5,7 +5,7 @@ url: "https://www.nowcloud.co.uk"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: rossinthecloud.com
+  title: nowcloud.co.uk
   avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
