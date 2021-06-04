@@ -8,18 +8,18 @@ bla blab blablalsdasd.
 
 blalladlasdasd.
 
-![Error]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/erro.JPG)
+![Error]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/fido2_0.png)
 
 <!--more-->
 
 blallsadasd"
 
-![Configuration Tool]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/configtool.JPG)
+![Configuration Tool]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/fido2_1.png)
 
 asdasdasdasd.
 
 adasdasdasdad)
 
-![Azure Portal]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/azure.JPG)
+![Azure Portal]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/fido2_2.png)
 
-![Azure Portal]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/azure.JPG)
+![Azure Portal]({{ site.baseurl }}/assets/img/blog/2020-01-25-ASRVMwareError/fido2_3.png)
