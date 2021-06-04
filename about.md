@@ -4,45 +4,17 @@ title: About
 permalink: /about/
 order: 2
 ---
-![czujto](/assets/img/avatar.jfif)
+![czujto](/assets/img/avatar.jpg)
 
 
-Ross McLachlan is a Senior Infrastructure & Cloud Consultant at [Quorum](https://www.qnrl.com "Quorum") in Edinburgh, Scotland.
+Kamil Lygas is a Technical Cloud Consultant at [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Newcastle, England.
 
 #### Certifications ####
-- Microsoft Certified Trainer (MCT)
-- TOGAF Certified
-- Microsoft Certified: DevOps Engineer Expert
-- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Security Operations Analyst Associate
-- Microsoft Certified: Identity and Access Administrator Associate
-- Microsoft 365 Certified: Security Administrator Associate
-- Microsoft 365 Certified: Teams Administrator Associate
-- Microsoft 365 Certified: Modern Desktop Administrator Associate
-- MCSD: Azure Solutions Architect
-- MCSE: Cloud Platform and Infrastructure
-- MCSE: Private Cloud
-- MCSA: Cloud Platform
-- MCSA: Windows Server 2012
-- MCSA: Windows Server 2003
 - Microsoft Specialist: Architecting Microsoft Azure Solutions
-- Microsoft Specialist: Developing Microsoft Azure Solutions
-- Microsoft Specialist: Implementing Microsoft Azure Infrastructure Solutions
-- Microsoft Specialist: Configuring Windows Devices
-- Microsoft Specialist: Server Virtualization with Windows Server Hyper-V and System Center
 - Microsoft Certified: Azure Fundamentals
-- Microsoft 365 Certified: Fundamentals
-- Zerto Certified Associate: Foundations 8.0
-- Amazon Web Services: Technical Essentials
-- MCITP: Enterprise Desktop Administrator on Windows 7
-- MCTS: Windows Small Business Server 2008, Configuration
 - ITIL V3
-- OPITO: Basic Offshore Emergency Training (BOSIET) with EBS
-- OPITO: Basic Offshore Safety Induction & Emergency Training (BOSIET) with Compressed Air Emergency Breathing (CA-EBS)
-- OPITO: Escape Chute Training (Skyscape)
-- OPITO: Minimum Industry Safety Training (MIST)
 
 #### Disclaimer ####
 
