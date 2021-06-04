@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://rossinthecloud.com"
+url: "https://www.nowcloud.co.uk"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "Ross McLachlan" # used by search engines
+  description: "Kamil Lygas" # used by search engines
 
   # Header and footer text
   header_text: 
@@ -26,18 +26,18 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rossinthecloud"
+  github: "czujto"
   gitter:
   google_plus:
   instagram:
-  linkedin: "https://uk.linkedin.com/in/rossmclachlan"
+  linkedin: "https://www.linkedin.com/in/kamil-lygas-5804528/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "rossinthecloud"
+  twitter: "kamillygas"
   wordpress:
   youtube:
 
