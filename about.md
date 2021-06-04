@@ -14,6 +14,8 @@ Kamil Lygas is a Technical Cloud Consultant at [HTG - People-first Technology](h
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Specialist: Architecting Microsoft Azure Solutions
 - Microsoft Certified: Azure Fundamentals
+- Citrix Virtual Apps and Desktops Service on Citrix Cloud (CC-VAD-CC)
+- Citrix Virtual Apps and Desktops Service on Microsoft Azure (CC-VAD-MA)
 - ITIL V3
 
 #### Disclaimer ####
