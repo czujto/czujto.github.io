@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 order: 2
 ---
-![czujto](/assets/img/avatar.jpg)
+![czujto](/assets/img/avatar1.jpg)
 
 
 Kamil Lygas is a Technical Cloud Consultant at [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Newcastle, England.
