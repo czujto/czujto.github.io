@@ -43,7 +43,7 @@ theme_settings:
 
   # Scripts
   google_analytics: UA-83218897-xx
-  disqus_shortname: czujto
+  disqus_shortname: czujtoczujto
   katex: true # Enable if using math markup
   search: false # Enable the search feature
 
