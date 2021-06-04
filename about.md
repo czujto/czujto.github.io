@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 order: 2
 ---
-![Ross McLachlan](/assets/img/avatar.jpg)
+![czujto](/assets/img/avatar.jfif)
 
 
 Ross McLachlan is a Senior Infrastructure & Cloud Consultant at [Quorum](https://www.qnrl.com "Quorum") in Edinburgh, Scotland.
