@@ -42,7 +42,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: UA-45703203-1
+  google_analytics: G-T60578QRXL
   disqus_shortname: czujtoczujto
   katex: true # Enable if using math markup
   search: false # Enable the search feature
