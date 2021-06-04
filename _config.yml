@@ -43,7 +43,7 @@ theme_settings:
 
   # Scripts
   google_analytics: UA-83218897-1
-  disqus_shortname: cloudross
+  disqus_shortname: czujto
   katex: true # Enable if using math markup
   search: false # Enable the search feature
 
