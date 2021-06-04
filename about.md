@@ -18,4 +18,4 @@ Kamil Lygas is a Technical Cloud Consultant at [HTG - People-first Technology](h
 
 #### Disclaimer ####
 
-The information in this blog is provided ‘AS IS’ with no warranties and confers no rights. This blog does not represent the thoughts, intentions, plans or strategies of my employer. It is solely my own personal opinion. All code samples are provided ‘AS IS’ without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchant ability and/or fitness for a particular purpose.
+The material and information contained on this website is for general information purposes only. You should not rely upon the material or information on the website as a basis for making any business, legal or any other decisions. 
