@@ -26,8 +26,6 @@ This process enables the scenario where users lose access to organizational Shar
 + Network location change: Conditional Access location policies will be enforced in near real time.
 + Token export to a machine outside of a trusted network can be prevented with Conditional Access location policies
 
-
-=======
 #### Enable or disable CAE (Preview) ####
 
 **1)** Sign in to the Azure portal as a Conditional Access Administrator, Security Administrator, or Global Administrator
