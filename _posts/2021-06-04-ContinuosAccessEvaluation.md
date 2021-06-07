@@ -34,7 +34,7 @@ This process enables the scenario where users lose access to organizational Shar
 3) Choose Enable preview.
 4) Select Save.
 
-![CAE]({{ site.baseurl }}/assets/img/blog/2021-06-06-ContinuosAccessEvaluation/CAE2.png)
+![CAE]({{ site.baseurl }}/assets/img/blog/2021-06-06-ContinuosAccessEvaluation/CAE2.PNG)
 
 That's it done.
 
