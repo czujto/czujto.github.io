@@ -29,10 +29,10 @@ This process enables the scenario where users lose access to organizational Shar
 
 #### Enable or disable CAE (Preview) ####
 
-1) Sign in to the Azure portal as a Conditional Access Administrator, Security Administrator, or Global Administrator
-2) Browse to Azure Active Directory > Security > Continuous access evaluation.
-3) Choose Enable preview.
-4) Select Save.
+**1)** Sign in to the Azure portal as a Conditional Access Administrator, Security Administrator, or Global Administrator
+**2)** Browse to Azure Active Directory > Security > Continuous access evaluation.
+**3)** Choose Enable preview.
+**4)** Select Save.
 
 ![CAE]({{ site.baseurl }}/assets/img/blog/2021-06-06-ContinuosAccessEvaluation/CAE2.PNG)
 
