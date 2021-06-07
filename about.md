@@ -7,7 +7,9 @@ order: 2
 ![czujto](/assets/img/avatar1.jpg)
 
 
-I am Kamil Lygas, and I've worked in IT for over 14 years. My passion is technology, and I love to help people understand what it can do to help them. I consider myself a life long learner and love to share my passion for learning with others
+I am Kamil Lygas and I’ve worked in IT for over 14 years. I've been a subject matter expert in various solutions through my career including Microsoft Azure, Microsoft 365 and Citrix Cloud.
+With over 14years’ experience of analysis, design, implementation, testing, rollout, support and maintenance of infrastructure across a breadth of industries. I'm a natural problem solver with excellent analytic skills, quickly able to understand customer requirements and break these down into actionable solutions.
+
 I am currently a Technical Cloud Consultant at [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Newcastle, England.
 
 #### Certifications ####
