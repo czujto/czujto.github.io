@@ -5,8 +5,8 @@ url: "https://www.nowcloud.co.uk"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 'nowcloud.co.uk' +
-	 'blog about Microsoft Azure'
+  title: <p>nowcloud.co.uk</p>
+	 <p>blog about Microsoft Azure</p>
   avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
