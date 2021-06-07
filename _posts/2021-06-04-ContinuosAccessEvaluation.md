@@ -20,10 +20,12 @@ CAE is implemented by enabling services, like Exchange Online, SharePoint Online
 This process enables the scenario where users lose access to organizational SharePoint Online files, email, calendar, or tasks, and Teams from Microsoft 365 client apps within mins after one of these critical events.
 
 
+
 #### Key benefits ####
 + User termination or password change/reset: User session revocation will be enforced in near real time.
 + Network location change: Conditional Access location policies will be enforced in near real time.
 + Token export to a machine outside of a trusted network can be prevented with Conditional Access location policies
+
 
 #### Enable or disable CAE (Preview) ####
 
