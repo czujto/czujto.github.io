@@ -11,7 +11,7 @@ Learn how to configure Universal Print
 
 <!--more-->
 
-Universal print is a pretty neat and easy to setup print solution. It allows users to print from anywhere in the world and also eliminates the need for a local print server! Older printers can also be reused with a help of connector software:)
+Universal print is a pretty neat and easy to set up print solution. It allows users to print from anywhere in the world and also eliminates the need for a local print server! Older printers can also be reused with a help of connector software:)
 
 
 
