@@ -4,10 +4,9 @@ tags: [azure, Azure AD, Continuos Access Evaluation]
 title: Enable Continuos Access Evaluation in Azure AD
 excerpt_separator: <!--more-->
 ---
-Continuous access evaluation is implemented by enabling services, like Exchange Online, SharePoint Online, and Teams, to subscribe to critical events in Azure AD so that those events can be evaluated and enforced near real time. Critical event evaluation does not rely on Conditional Access policies so is available in any tenant.
-Learn how to enable it!
+Continuous access evaluation allows organisations to monitor near real time critical events in Azure AD. 
+Learn what the key benefits are and also how to enable it!
 
-![CAE]({{ site.baseurl }}/assets/img/blog/2021-06-06-ContinuosAccessEvaluation/CAE1.png)
 
 <!--more-->
 Continuous access evaluation is implemented by enabling services, like Exchange Online, SharePoint Online, and Teams, to subscribe to critical events in Azure AD so that those events can be evaluated and enforced near real time. Critical event evaluation does not rely on Conditional Access policies so is available in any tenant. The following events are currently evaluated:
