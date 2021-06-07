@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [azure, Windows Virtual Desktop, WVD]
-title: Windows Virtual Desktop is changing name!
+title: Windows Virtual Desktop is changing its name!
 excerpt_separator: <!--more-->
 ---
 Windows Virtual Desktop is changing its name! 
@@ -15,14 +15,16 @@ Going forward, organizations will need to support an evolving set of remote and 
 
 To support this broader vision and the changing needs of our customers, today we are announcing new capabilities, new pricing for app streaming, and changing the name of the Windows Virtual Desktop service to Azure Virtual Desktop.
 
-#### Enhanced support for Azure Active Directory (coming soon in public preview) ####
+Some of the key featues that are coming soon in public preview:
+
+#### Enhanced support for Azure Active Directory ####
 
 + Azure Active Directory is a critical service used by organizations around the world to manage user access to important apps and data and maintain strong security controls. We are pleased to announce that you’ll soon be able to join your Azure Virtual Desktop virtual machines directly to Azure Active Directory (AAD) and connect to the virtual machines from any device with basic credentials
 
-#### Manage Windows 10 Enterprise multi-session virtual machines with Microsoft Endpoint Manager (available now in preview) ####
+#### Manage Windows 10 Enterprise multi-session virtual machines with Microsoft Endpoint Manager ####
 
 + Microsoft Endpoint Manager allows you to manage policies and distribute applications across devices.
 
-Microsoft also announced new pricing model for AVD, link to the main article can be accessed via this link https://azure.microsoft.com/en-us/blog/azure-virtual-desktop-the-desktop-and-app-virtualization-platform-for-the-hybrid-workplace/
+Microsoft also announced new pricing model for AVD, link to the main article can be accessed via this link #### https://azure.microsoft.com/en-us/blog/azure-virtual-desktop-the-desktop-and-app-virtualization-platform-for-the-hybrid-workplace/ ####
 
 Thanks for reading!
