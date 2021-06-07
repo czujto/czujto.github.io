@@ -5,7 +5,7 @@ title: Enable Continuos Access Evaluation in Azure AD
 excerpt_separator: <!--more-->
 ---
 Continuous access evaluation (CAE) allows organisations to monitor near real time critical events in Azure AD. 
-Learn what the key benefits are and also how to enable it!
+Learn what the key benefits are and how to enable or disable CAE!
 
 
 <!--more-->
