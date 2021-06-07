@@ -7,7 +7,8 @@ order: 2
 ![czujto](/assets/img/avatar1.jpg)
 
 
-Kamil Lygas is a Technical Cloud Consultant at [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Newcastle, England.
+I am Kamil Lygas, and I've worked in IT for over 14 years. My passion is technology, and I love to help people understand what it can do to help them. I consider myself a life long learner and love to share my passion for learning with others
+I am currently a Technical Cloud Consultant at [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Newcastle, England.
 
 #### Certifications ####
 - Microsoft Certified: Azure Security Engineer Associate
