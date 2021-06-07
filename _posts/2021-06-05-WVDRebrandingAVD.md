@@ -4,10 +4,12 @@ tags: [azure, Windows Virtual Desktop, WVD]
 title: Windows Virtual Desktop is changing name!
 excerpt_separator: <!--more-->
 ---
-Windows Virtual Desktop is changing name! Click more to find out about new announcments
+Windows Virtual Desktop is changing name! Continue reading to find out about new announcments
 
 
 <!--more-->
+Note from Microsoft: 
+
 Going forward, organizations will need to support an evolving set of remote and hybrid work scenarios. To help our customers and partners meet these new hybrid work demands, we are expanding our vision to become a flexible cloud VDI platform for nearly any use case—accessible from virtually anywhere. A modern VDI platform needs to be secure, scalable, and easy to manage, while delivering a seamless, high-performance experience to end users. It should also empower organizations with the flexibility to customize and build solutions with its core technology.
 
 To support this broader vision and the changing needs of our customers, today we are announcing new capabilities, new pricing for app streaming, and changing the name of the Windows Virtual Desktop service to Azure Virtual Desktop.
