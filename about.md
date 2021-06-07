@@ -24,4 +24,4 @@ I am currently a Technical Cloud Consultant working for [HTG - People-first Tech
 
 #### Disclaimer ####
 
-The material and information contained on this website is for general information purposes only. You should not rely upon the material or information on the website as a basis for making any business, legal or any other decisions. 
+The material and information contained on this website are for general information purposes only. You should not rely upon the material or information on the website as a basis for making any business, legal, or any other decisions.
