@@ -5,8 +5,8 @@ url: "https://www.nowcloud.co.uk"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: |
-      nowcloud.co.uk
+  title: >
+      nowcloud.co.uk\n
       blog about Microsoft Azure
   avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
