@@ -9,7 +9,7 @@ theme_settings:
       nowcloud.co.uk | 
       A blog by Kamil Lygas
   avatar: assets/img/avatar.jpg
-  favicon: assets/favicon.ico
+  favicon: assets/blog_icon_small.ico
   gravatar: # Email MD5 hash
   description: "Kamil Lygas" # used by search engines
 
