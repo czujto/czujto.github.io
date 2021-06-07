@@ -9,13 +9,13 @@ Windows Virtual Desktop is rebranding!
 ![WVD]({{ site.baseurl }}/assets/img/blog/2021-06-07-WVDRebrandingAVD/windows-virtual-desktop-wvd-logo-1.png)
 
 <!--more-->
-Note from Microsoft: 
+Microsoft has announced today that Windows Virtual Desktop (WVD) will be rebranded as Azure Virtual Desktop (AVD).  
 
 Going forward, organizations will need to support an evolving set of remote and hybrid work scenarios. To help our customers and partners meet these new hybrid work demands, we are expanding our vision to become a flexible cloud VDI platform for nearly any use case—accessible from virtually anywhere. A modern VDI platform needs to be secure, scalable, and easy to manage, while delivering a seamless, high-performance experience to end users. It should also empower organizations with the flexibility to customize and build solutions with its core technology.
 
 To support this broader vision and the changing needs of our customers, today we are announcing new capabilities, new pricing for app streaming, and changing the name of the Windows Virtual Desktop service to Azure Virtual Desktop.
 
-Some of the key featues that are coming soon in public preview:
+Some of the key features that are coming soon in public preview:
 
 #### Enhanced support for Azure Active Directory ####
 
