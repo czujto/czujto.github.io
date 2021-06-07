@@ -21,21 +21,14 @@ Continuous access evaluation is implemented by enabling services, like Exchange 
 This process enables the scenario where users lose access to organizational SharePoint Online files, email, calendar, or tasks, and Teams from Microsoft 365 client apps within mins after one of these critical events.
 
 
-<<<<<<< HEAD
-Key benefits
-=======
 #### Key benefits ####
->>>>>>> fe1c2a566182ecbef67ffcb5a80b4a53009a9161
 + User termination or password change/reset: User session revocation will be enforced in near real time.
 + Network location change: Conditional Access location policies will be enforced in near real time.
 + Token export to a machine outside of a trusted network can be prevented with Conditional Access location policies
 
 
-<<<<<<< HEAD
-Enable or disable CAE (Preview)
 =======
 #### Enable or disable CAE (Preview) ####
->>>>>>> fe1c2a566182ecbef67ffcb5a80b4a53009a9161
 
 **1)** Sign in to the Azure portal as a Conditional Access Administrator, Security Administrator, or Global Administrator
 **2)** Browse to Azure Active Directory > Security > Continuous access evaluation.
