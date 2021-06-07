@@ -10,7 +10,7 @@ order: 2
 I am Kamil Lygas and I’ve worked in IT for over 14 years. I've been a subject matter expert in various technologies through my career including Microsoft Azure, Microsoft 365 and Citrix Cloud.
 With over 14 years’ experience of analysis, design, implementation, testing, rollout, support and maintenance of infrastructure across a breadth of industries. I'm a natural problem solver with excellent analytic skills, quickly able to understand customer requirements and break these down into actionable solutions.
 
-I am currently a Technical Cloud Consultant working for [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Newcastle, England.
+I am currently a Technical Cloud Consultant working for [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Edinburgh, Scotland.
 
 #### Certifications ####
 - Microsoft Certified: Azure Security Engineer Associate
