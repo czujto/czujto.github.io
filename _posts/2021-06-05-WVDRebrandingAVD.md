@@ -4,7 +4,7 @@ tags: [azure, Windows Virtual Desktop, WVD]
 title: Windows Virtual Desktop is changing name!
 excerpt_separator: <!--more-->
 ---
-Windows Virtual Desktop is changing name! Continue reading to find out about new announcments
+Windows Virtual Desktop is changing name! 
 
 
 <!--more-->
