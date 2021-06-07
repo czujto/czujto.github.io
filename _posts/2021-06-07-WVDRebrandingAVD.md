@@ -25,6 +25,6 @@ Some of the key featues that are coming soon in public preview:
 
 + Microsoft Endpoint Manager allows you to manage policies and distribute applications across devices.
 
-Microsoft also announced new pricing model for AVD, link to the main article can be accessed via this link #### https://azure.microsoft.com/en-us/blog/azure-virtual-desktop-the-desktop-and-app-virtualization-platform-for-the-hybrid-workplace/ ####
+Microsoft also announced new pricing model for AVD, link to the main article can be accessed via this link https://azure.microsoft.com/en-us/blog/azure-virtual-desktop-the-desktop-and-app-virtualization-platform-for-the-hybrid-workplace/
 
 Thanks for reading!
