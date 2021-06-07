@@ -1,10 +1,10 @@
 ---
 layout: post
 tags: [azure, Windows Virtual Desktop, WVD]
-title: Windows Virtual Desktop is changing its name!
+title: Windows Virtual Desktop is rebranding!
 excerpt_separator: <!--more-->
 ---
-Windows Virtual Desktop is changing its name! 
+Windows Virtual Desktop is rebranding! 
 
 ![WVD]({{ site.baseurl }}/assets/img/blog/2021-06-07-WVDRebrandingAVD/windows-virtual-desktop-wvd-logo-1.png)
 
