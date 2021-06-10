@@ -17,6 +17,7 @@ I am currently a Technical Cloud Consultant working for [HTG - People-first Tech
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Specialist: Architecting Microsoft Azure Solutions
+- Microsoft Certified Trainer (MCT)
 - Microsoft Certified: Azure Fundamentals
 - Citrix Virtual Apps and Desktops Service on Citrix Cloud (CC-VAD-CC)
 - Citrix Virtual Apps and Desktops Service on Microsoft Azure (CC-VAD-MA)
