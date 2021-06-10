@@ -26,9 +26,22 @@ SMB Multichannel for Azure files shares is available in all public cloud regions
 
 Lets move on to the fun part, configuration!
 
-First of all, we need to register for SMB Multichannel preview. You can do it via Azure Portal by going to Preview blade, then search and select Join Azure Files SMB Mulitchannel preview, finally click Register.
+First of all, we need to register for SMB Multichannel preview. We can do it via Azure Portal by going to Preview blade, select Join Azure Files SMB Mulitchannel preview and by clicking Register.
+Please bare in mind that registration might take up to an hour.
 
 ![SMB Multichannel ]({{ site.baseurl }}/assets/img/blog/2021-06-06-ConfigureAZStorageSMBMulti/smb-multi2.jpg) 	
+
+To use PowerShell for reguistration, please run commands blow:
+
+Connect-AzAccount
+# Setting your active subscription to the one you want to register for the preview. 
+# Replace the <subscription-id> placeholder with your subscription id. 
+$context = Get-AzSubscription -SubscriptionId <your-subscription-id> 
+Set-AzContext $context
+
+Register-AzProviderFeature -FeatureName AllowSMBMultichannel -ProviderNamespace Microsoft.Storage 
+Register-AzResourceProvider -ProviderNamespace Microsoft.Storage
+
 
 You
 Thanks!
