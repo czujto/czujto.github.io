@@ -14,6 +14,7 @@ With over 14 years of experience in analysis, design, implementation, testing, r
 I am currently a Technical Cloud Consultant working for [HTG - People-first Technology](https://htg.co.uk "HTG - People-first Technology") in Edinburgh, Scotland.
 
 #### Certifications ####
+- Microsoft Speciality : Azure Virtual Desktop
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Specialist: Architecting Microsoft Azure Solutions
