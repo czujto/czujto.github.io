@@ -26,7 +26,6 @@ Follow the normal process of adding a new host to the host pool but at the very 
 ![AVD]({{ site.baseurl }}/assets/img/blog/2021-06-24-AVDResetHostpoolCount/hpcounter3.PNG)
 
 + Change the value from 1, in my case, to 0 or any other number that you want to start VM numbers from.
-
 + Now click Deploy.
 
 That's it!
