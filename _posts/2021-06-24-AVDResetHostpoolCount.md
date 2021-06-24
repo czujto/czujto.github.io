@@ -16,17 +16,19 @@ Follow the normal process of adding a new host to the host pool but at the very 
 
 ![AVD]({{ site.baseurl }}/assets/img/blog/2021-06-24-AVDResetHostpoolCount/hpcounter1.PNG)
 
-Now select Parameters 
++ Now select Parameters 
 
 ![AVD]({{ site.baseurl }}/assets/img/blog/2021-06-24-AVDResetHostpoolCount/hpcounter2.PNG)
 
-and look for vmInitialNumber
++ now look for vmInitialNumber
 
 ![AVD]({{ site.baseurl }}/assets/img/blog/2021-06-24-AVDResetHostpoolCount/hpcounter3.PNG)
 
-Change the value from 1, in my case, to 0 or any other number that you want to start VM numbers from.
++ Change the value from 1, in my case, to 0 or any other number that you want to start VM numbers from.
 
-Now click Deploy, that's it!
++ Now click Deploy.
+
+That's it!
 
 Remember to copy the Registration Token as you will need it to finish Deployment!
 
