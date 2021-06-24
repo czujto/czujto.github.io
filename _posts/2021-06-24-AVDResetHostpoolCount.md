@@ -4,7 +4,7 @@ tags: [azure, Azure Virtual Desktop, AVD]
 title: How to reset AVD Host Pool Counter
 excerpt_separator: <!--more-->
 ---
-Do you know how you can reset Host Pool counter when adding new VMs to the pool without deleting existing hosts?
+Do you know how to reset Host Pool counter when adding new VMs to the pool, without deleting existing hosts?
 No? Then this post is for you! 
 
 ![AVD]({{ site.baseurl }}/assets/img/blog/2021-06-24-AVDResetHostpoolCount/hpcounter3.PNG)
