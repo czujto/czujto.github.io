@@ -30,7 +30,7 @@ Follow the normal process of adding a new host to the host pool but at the very 
 
 That's it!
 
-Remember to copy the Registration Token as you will need it to finish Deployment!
+IMPORTANT: Remember to copy the Registration Token as you will need it to finish Deployment!
 
 Thanks for reading! 
 
